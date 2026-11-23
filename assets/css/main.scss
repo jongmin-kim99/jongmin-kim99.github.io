@@ -38,6 +38,20 @@
   font-weight: bold;
 }
 
+// Home page: contact icons under the intro text (left-aligned, smaller)
+.social.intro-social {
+  text-align: left;
+  margin-top: 1rem;
+
+  .contact-icons {
+    font-size: 2rem;
+
+    a {
+      margin-right: 0.5rem;
+    }
+  }
+}
+
 // Home page: divider line above each section (Selected Publications, Project)
 h2.home-section {
   border-top: 1px solid var(--global-divider-color);
