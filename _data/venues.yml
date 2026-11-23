@@ -1,3 +1,7 @@
+"TC":
+  url: https://www.computer.org/csdl/journal/tc
+  color: "#e17055"
+
 "HPCA":
   url: https://www.hpca-conf.org/
   color: "#00369f"
