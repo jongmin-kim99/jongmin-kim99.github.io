@@ -46,11 +46,11 @@ h2.home-section {
   margin-bottom: 1rem;
 }
 
-// Home page: same year label style in Selected Publications and Project
+// Same year label style in Selected Publications, the Publications page, and Project
 .publications.home-years {
   margin-top: 0;
 }
-.publications.home-years h2.bibliography,
+.publications h2.bibliography,
 .project.home-years > p > strong:only-child {
   display: block;
   color: var(--global-text-color);
