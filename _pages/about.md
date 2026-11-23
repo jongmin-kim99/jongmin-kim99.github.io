@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Ph.D. Student, Department of Electrical and Computer Engineering, <a href='https://www.korea.ac.kr/'>Korea University</a>
 
@@ -10,8 +10,8 @@ profile:
   # To show a photo, add it as assets/img/prof_pic.jpg and uncomment the next line.
   # image: prof_pic.jpg
   more_info: >
-    <p>Korea University</p>
-    <p>Seoul, Republic of Korea</p>
+    <p>jmkim99 at</p>
+    <p>korea.ac.kr</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -30,5 +30,6 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 **Research Interests**
 
 - LLM Serving Systems
+- Processing-In-Memory (PIM) Systems
 - CXL Memory Systems
 - Domain-Specific Accelerators

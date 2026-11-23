@@ -23,4 +23,4 @@ cv:
     Interests:
       - name: Research
         icon: fa-solid fa-tag
-        keywords: "LLM Serving Systems, CXL Memory Systems, Domain-Specific Accelerators"
+        keywords: "LLM Serving Systems, Processing-In-Memory (PIM) Systems, CXL Memory Systems, Domain-Specific Accelerators"
