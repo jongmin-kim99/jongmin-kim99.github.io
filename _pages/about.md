@@ -33,12 +33,4 @@ I am a Ph.D. student in the Department of Electrical and Computer Engineering at
 - CXL Memory Systems
 - Domain-Specific Accelerators
 
-## Project
-
-**2024**
-
-- SK hynix: Research on CXL BME/CME/PME Usage Models and CXL Software Optimization (-Aug.)
-
-**2023**
-
-- SK hynix: Research on CXL BME/CME/PME Usage Models and CXL Software Optimization (Sep.-)
+<!-- The Project section (shown below Selected Publications) is in _includes/about_project.liquid -->

@@ -1,0 +1,15 @@
+{% comment %}
+  Project section on the home page, shown below Selected Publications.
+  Edit the Markdown between capture and endcapture.
+{% endcomment %}
+{% capture project_md %}
+**2024**
+
+- SK hynix: Research on CXL BME/CME/PME Usage Models and CXL Software Optimization (-Aug.)
+
+**2023**
+
+- SK hynix: Research on CXL BME/CME/PME Usage Models and CXL Software Optimization (Sep.-)
+{% endcapture %}
+<h2>Project</h2>
+<div class="project">{{ project_md | markdownify }}</div>
