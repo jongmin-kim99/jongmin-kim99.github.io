@@ -7,8 +7,7 @@ subtitle: Ph.D. Student, Department of Electrical and Computer Engineering, <a h
 profile:
   align: right
   image_circular: false # crops the image to make it circular
-  # To show a photo, add it as assets/img/prof_pic.jpg and uncomment the next line.
-  # image: prof_pic.jpg
+  image: jongminkim.png # file in assets/img/
   more_info: >
     <p>jmkim99 at</p>
     <p>korea.ac.kr</p>
