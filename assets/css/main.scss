@@ -38,10 +38,15 @@
   font-weight: bold;
 }
 
-// Home page: contact icons under the intro text (left-aligned, smaller)
-.social.intro-social {
+// Home page: "Email:" and the address on separate lines under the photo
+.profile .more-info p {
+  display: block;
+}
+
+// Home page: contact icons under the email text (left-aligned, smaller)
+.social.profile-social {
   text-align: left;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
 
   .contact-icons {
     font-size: 2rem;
