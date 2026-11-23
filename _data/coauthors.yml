@@ -1,0 +1,5 @@
+# Map co-author last names (lowercase) to profile links, e.g.:
+#
+# "oh":
+#   - firstname: ["Yunho", "Y."]
+#     url: https://example.com

@@ -1,0 +1,26 @@
+cv:
+  name: Jongmin Kim
+  label: Ph.D. Student
+  email: jmkim99@korea.ac.kr
+  location: Seoul, Republic of Korea
+
+  social_networks:
+    - network: GitHub
+      username: jongmin-kim99
+
+  sections:
+    Education:
+      - institution: Korea University
+        location: Seoul, Republic of Korea
+        area: Electrical and Computer Engineering
+        studyType: Ph.D.
+
+      - institution: Sungkyunkwan University
+        location: Republic of Korea
+        studyType: B.S.
+        end_date: 2023
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-tag
+        keywords: "LLM Serving Systems, CXL Memory Systems, Domain-Specific Accelerators"

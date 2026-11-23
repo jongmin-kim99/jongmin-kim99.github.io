@@ -1,0 +1,15 @@
+"HPCA":
+  url: https://www.hpca-conf.org/
+  color: "#00369f"
+
+"CAL":
+  url: https://www.computer.org/csdl/journal/ca
+  color: "#009f36"
+
+"TOS":
+  url: https://dl.acm.org/journal/tos
+  color: "#b31b1b"
+
+"Access":
+  url: https://ieeeaccess.ieee.org/
+  color: "#6c5ce7"
